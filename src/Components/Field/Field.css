@@ -1,0 +1,19 @@
+#field {
+    box-sizing: border-box;
+    min-height: 262px;
+    max-height: 262px;
+    width: 262px;
+    background-color: #c0c0c0;
+
+    border: 3px solid;
+    border-bottom-color: white;
+    border-right-color: white;
+    border-left-color: #7b7b7b;
+    border-top-color: #7b7b7b ; 
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+
+}

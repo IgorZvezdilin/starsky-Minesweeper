@@ -1,0 +1,21 @@
+#roof {
+    box-sizing: border-box;
+    height: 38px;
+    width: 100%;
+    background-color: #c0c0c0;
+    margin-bottom: 5px;
+    padding: 0 5px 0 5px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    border: 3px solid;
+    border-bottom-color: white;
+    border-right-color: white;
+    border-left-color: #7b7b7b;
+    border-top-color: #7b7b7b ; 
+
+
+
+}

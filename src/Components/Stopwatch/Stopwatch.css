@@ -1,0 +1,8 @@
+#stopwatch, #mine-counter {
+    box-sizing: border-box;
+    width: auto;
+    height: auto;
+
+    display: flex;
+    justify-content: center;
+}
